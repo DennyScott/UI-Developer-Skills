@@ -120,69 +120,118 @@ Canvas Html5 Hame Engine.
 
 ## Questions
 ### What are the differences between Web Gl and Canvas?
+Canvas allows for dynamic, scriptable rendering of 2D shapes and bitmap images. WebGL is a JavaScript API for rendering interactive 3D graphics and 2D graphics within any compatible web browser without the use of plug-ins. WebGL allows for hardware acceleration.
 
 ### What is the scope in Angular?
+Scope is the glue between application controller and the view. Data passed in the Scope can be used in both the view and the model.
 
 ### What are the benefits to Web GL?
+WebGl allows for both 3D graphics, used OpenGl Web under the hood, and allows for hardware acceleration.
 
 ### What is the purpose of Hardware(GPU) Acceleration?
+Hardware acceleration is the use of computer hardware (the GPU) to perform some functions faster than is possible in software running on a more general-purpose CPU
 
 ### Can you give some details about Agile Methodologies (Scrum/Kanban)
+* Scrum
+  * Scrum is an iterative and incremental agile software development framework for managing product development. 
+  * Velocity
+  * Planning Poker
+  * Stories
+  * Backlog
+* Kanban
+  * Kanban is a method for managing knowledge work with an emphasis on just-in-time delivery while not overloading the team members.
+  * Stories
 
 ### What is TDD?
+Test-driven development (TDD) is an advanced technique of using automated unit tests to drive the design of software and force decoupling of dependencies.
 
 ### Have you ever tried Object-Oriented Javascript? What were your experiences like?
+Open Answer
 
 ### Scenario: A backend Developer has completed his REST API for your app. What does that mean?
+REST is an architecture style or design pattern used as a set of guidelines for creating web services which allow anything connected to a network. This mean the developer has completed a server for us, where we can now Update Post Insert and Remove data from.
 
 ### Whats Faster for Animations? Javascript or CSS? Why?
+Either argument has it's valid points. Javascript can technically faster as long as it uses CSS3 Transformations under the hood and specifically targets the hardware. If anyone says JQuery is faster, they're way off. If they mention that CSS 3 is faster then Jquery Animations, that is correct!
 
 ### Scenario: You've grabbed a story from the backlog, and started you first task. You opened your text editor, and are ready to start the feature. What are your first steps?
+Open Answer
 
 ### What is Local Storage used for?
+With local storage, web applications can store data locally within the user's browser.
 
 ### What are Private, Privlliged and Public functions in Javascript?
+Private Functions are functions wrapped in a closer and only usable within that function.
+
+Privlliged functions can be called publicly, but can also call the private functions within their home function.
+
+Public functions are connected to an object through its prototype and cannot call an objects private functions.
 
 ### What are services used for in Angular?
+Angular services are substitutable objects that are wired together using dependency injection (DI). You can use services to organize and share code across your app.
 
 ### Why would you develop an App with HTML 5? 
+Many reasons, one code base and common HTML 5 familiarity being the largest reasons
 
 ### When developing in HTML 5, how would you deploy the app to:
 * **Mobile**
+  *  Use Cordova 
 * **Web**
+  *  Should deploy as is, by spinning up a server. 
 * **Desktop**
+  * You could use Node-Webkit to handle this. 
 
 ### What is the window namespace used for in Javascript?
+Global Variables.
 
 ### What is Isomorphic Javascript?
+Frameworks that mix the Server and Client side Code. Ember Js, Meteor, etc.
 
 ### What sort of features are coming in ECMAScript 6?
+Classes, Modules, Syntax Sugar, etc.
 
 ### What is the Box Model?
+Box model is essentially a box that wraps around HTML elements, and it consists of: margins, borders, padding, and the actual content.
 
 ### Why can JQuery be bad for mobile?
+Dom Parsing is heavy for the CPU. On desktops, this is virtually not noticable. On Mobile though, this can chug the Mobile.
 
 ### How would you make an app feel/perform more Native?
+Open Answer. Animations, Performance, Movement, Velocity, Famous, CSS Transformations.
 
 ### Whats the major differences between HTML 5 and Native Apps?
+HTML 5 is a code once, run anywhere platform. They run on a web browser on the mobile device. Native has been specifically coded for that device. It has better access to the hardware, and doesn't require the overhead of a browser, but will not run on other devices.
 
 ### What is the difference between Skeumorphism and Flat Design?
+* Skuemorphic
+  * emulates the aesthetics of physical objects.
+* Flat
+  * a style of interface design which removes any stylistic choices that give the illusion of three-dimensions. Minimalist
 
 ### What is Material Design?
+Google Design. Material has physical surfaces and edges. Seams and shadows provide meaning about what you can touch.
 
 ### Scenario: Your project manager has asked you to start a new HTML 5 App. What are your first steps?
+Open Answer
 
 ### What is DRY?
+Don't Repeat Yourself.
 
 ### Scenario: A designer has handed you a new design for a web app, how do you begin moving the design to concept?
 
 ### What is a full stack developer?
+a Full Stack Developer is someone with familiarity in each layer, if not mastery in many and a genuine interest in all software technology.
 
 ### What are the benefits of using a "Prebuilt" framework, like bootstrap and ionic, to something like Famous and Backbone?
 
+Open Answer. Basically, framework already has commonly used "widgets" or functions, reducing the development time.
+
 ### Scenario: Your designer has handed you an mobile app design with light transitions between pages, how would you handle these animations?
+Open Answer
 
 ### How comfortable are you with Github? Do you have personal projects? Have you contributed to anything we can see publicly?
+Open Answer
 
 ### Name your faviourite javascript library, and why.
+Open Answer
 
