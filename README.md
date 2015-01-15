@@ -113,7 +113,7 @@ A free, fast and flexible framework for HTML5 game creation. Uses Web GL with a 
 The aim of this project is to provide a fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of webGL. Also, it's fast.
 
 ### CreateJS
-Canvas Html5 Hame Engine.
+Canvas Html5 Game Engine. A library of systems: EaselJS, TweenJS, SoundJS
 
 <hr>
 
