@@ -148,9 +148,9 @@ Canvas Html5 Hame Engine.
 ### Why would you develop an App with HTML 5? 
 
 ### When developing in HTML 5, how would you deploy the app to:
-    * Mobile
-    * Web
-    * Desktop
+####Mobile
+####Web
+####Desktop
 
 ### What is the window namespace used for in Javascript?
 
