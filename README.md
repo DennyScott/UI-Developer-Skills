@@ -82,8 +82,6 @@ Less extends CSS with dynamic behavior such as variables, mixins, operations and
 
 ## Backend Systems
 
-<hr>
-
 ### Node JS
 Node.js is an open source, cross-platform runtime environment for server-side and networking applications. Node.js applications are written in JavaScript, and can be run within the Node.js runtime on OS X, Microsoft Windows, Linux and FreeBSD.
 
@@ -117,9 +115,10 @@ The aim of this project is to provide a fast lightweight 2D library that works a
 ### CreateJS
 Canvas Html5 Hame Engine.
 
+<hr>
 
 
-Good To Know
+## Questions
 ### What are the differences between Web Gl and Canvas?
 
 ### What is the scope in Angular?
